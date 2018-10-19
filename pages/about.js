@@ -9,7 +9,7 @@ const About = () => (
       <style jsx>
         {`
           p {
-            font-size: 20px;
+            font-size: 35px;
             font-style: italic;
           }
         `}
