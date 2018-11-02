@@ -10,7 +10,6 @@ const About = () => (
         {`
           p {
             font-size: 35px;
-            font-style: italic;
           }
         `}
       </style>
